@@ -52,9 +52,4 @@ Superstore-Visualization-Story/
 ## 📄 Report
 Final visual report is available here:  
 📎 `Superstore_Visualization_Story_Mishkaat.pdf`
-
----
-
-## 📬 Contact
-Created by **Mishkaat** (a.k.a Mishkins) 💁‍♀️  
-Feel free to connect or leave feedback!
+ 
